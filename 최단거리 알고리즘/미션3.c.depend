@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512890128 source:c:\users\조성원\desktop\외부활동자료\2017 하반기 사이버카이스트 c언어 레벨3\도전과제 2\미션3.c\main.cpp
+	<stdio.h>
+	<string.h>
+
